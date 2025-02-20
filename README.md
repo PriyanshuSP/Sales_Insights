@@ -76,7 +76,8 @@ SELECT SUM(sales_amount), dt.month_name, dt.year
     WHERE dt.year='2020' and t.market_code = 'Mark001';
 ```
 ## Dashboard
-![dashboard image](https://github.com/user-attachments/assets/4b6babc3-0907-4a12-a30e-ed1a046efbd4)
+![dashboard image](https://github.com/user-attachments/assets/4f0ca663-f1c9-4d7d-bd2a-120791f720ee)
+
 
 ## Findings
 - **Market Focus**: Chennai is a significant market, contributing substantially to the overall revenue. Consider increasing marketing efforts or expanding product offerings in this region.
