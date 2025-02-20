@@ -1,4 +1,4 @@
-# Sales-Insights
+# Sales Insights: Uncovering Trends with SQL & Power BI 
 
 ## Project Overview
 
